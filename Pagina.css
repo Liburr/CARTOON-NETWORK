@@ -24,12 +24,12 @@ font-size: 25mm;
 .image2
 {
     height: 50mm;
-    margin-left: 530;
+    margin-left: 520;
 }
 .image3
 {
     margin-left: 80mm;
-    height: 100mm;
+    width: 60mm;
 }
 .image4
 {
@@ -38,8 +38,8 @@ font-size: 25mm;
 }
 h2
 {
-    margin-left: 220px;
-text-align: left;
+    color: white;
+    text-align: center;
 }
 h3
 {
