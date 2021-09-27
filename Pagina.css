@@ -1,0 +1,54 @@
+title
+{
+    text-align: center;
+    color: white;
+}
+body
+{
+   background-image: url("fondo1.jpg");
+}
+h1
+{
+background-color: black;
+color: white;
+}
+h1
+{
+    background-color:black;
+color: white;
+text-align: center;
+font: xx-large;
+font-family: fantasy;
+font-size: 25mm;
+}
+.image2
+{
+    height: 50mm;
+    margin-left: 530;
+}
+.image3
+{
+    margin-left: 80mm;
+    height: 100mm;
+}
+.image4
+{
+    margin-left: 80mm;
+    height: 10mm;
+}
+h2
+{
+    margin-left: 220px;
+text-align: left;
+}
+h3
+{
+    margin-left: 220px;
+}
+table
+{
+margin-left: 120mm;
+background-color: white;
+border-radius: 5mm;
+
+}
